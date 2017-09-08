@@ -34,3 +34,7 @@
   min-height: 600px;
   width: 35%;
 }
+p {
+	font-family: roboto;
+	text-align:center
+}
