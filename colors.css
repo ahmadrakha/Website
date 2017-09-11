@@ -3,38 +3,41 @@
 
 .box {
   display: inline-table;
-  min-height: 100px;
-  width: 100%;
+  min-height: 100vh;
+  width: 100vw;
 }
 .yellow {
+	display: inline-table;
   background-color: #FEF140;
-  min-height: 300px;
+  min-height: 30vh;
   width: 50%;
 }
 .light_red {
   display: inline-table;
   background-color: #ED5876;
-  min-height: 300px;
+  min-height: 30vh;
   width: 25%;
 }
 .orange {
   display: inline-table;
   background-color: #F65533;
-  min-height: 300px;
+  min-height: 30vh;
   width: 10%;
 }
 .white {
   display: inline-table;
   background-color: #ffffff;
-  min-height: 600px;
+  min-height: 60vh;
   width: 50%;
 }
 .black {
+	display: inline-table;
   background-color: #3A3436;
-  min-height: 600px;
+  min-height: 60vh;
   width: 35%;
 }
 p {
-	font-family: roboto;
-	text-align: center;
+  font-family: Serif;
+  text-align: center;
+  font-color: #ED5876;
 }
