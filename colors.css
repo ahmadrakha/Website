@@ -2,7 +2,7 @@
 
 
 .box {
-	display: inline-table;
+  display: inline-table;
   min-height: 100px;
   width: 100%;
 }
@@ -12,19 +12,19 @@
   width: 50%;
 }
 .light_red {
-	display: inline-table;
+  display: inline-table;
   background-color: #ED5876;
   min-height: 300px;
   width: 25%;
 }
 .orange {
-	display: inline-table;
+  display: inline-table;
   background-color: #F65533;
   min-height: 300px;
   width: 10%;
 }
 .white {
-	display: inline-table;
+  display: inline-table;
   background-color: #ffffff;
   min-height: 600px;
   width: 50%;
